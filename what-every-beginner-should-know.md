@@ -34,12 +34,12 @@ Everything that I wish I knew when I started mountain biking.
 
 - Practice slow riding, maneuvering, turning even when not on the trails.
 
-- Keep your back flat and your elbows out. This puts you naturally in a good attack/ready position, pushes your bum to the rear, and gives you the most control of the handle bar.
+- Keep your back flat and your elbows out. This puts you naturally in a good attack/ready position, pushes your bum to the rear, and gives you the most control of the handle bar. Don't ride with your back rounded as this disengages your core and results in less control.
 
 - Point your head and knee towards the direction of the turn.
 
-- Apply breaks before a feature, not during. A feature will often be a turn. If the turn has sand or loose gravel, breaking during the turn will surely cause you to skid.
+- Apply breaks before a turn, not during. If the turn has sand or loose gravel, breaking during the turn will surely cause you to skid; depending on your speed, you may also take a fall.
 
-- Lean your body forward when turning. This will give you the most bite on the ground and result in greater control. The natural reaction is to lean back; leaning back can easily cause your front wheel to wash out and make you lose control.
+- Lean your body forward when turning. This will give you the most bite on the ground and result in greater control. The natural reaction is to lean back; leaning back can easily cause your front wheel to wash out and make you lose control. 
 
 - Make a habit of keeping your heels down when riding out of the saddle. This will keep your feet firmly planted on the pedals, promote good posture and weight distribution.
