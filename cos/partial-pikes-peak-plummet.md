@@ -4,10 +4,11 @@ This is a plan for self-shuttling a partial pikes peak plummet, starting from El
 ## Summary
 - **Starting Point Parking:** [Elk Park Trailhead](https://www.google.com/maps/place/38%C2%B052'37.9%22N+105%C2%B003'55.7%22W/@38.8765007,-105.0667217,257m/data=!3m1!1e3!4m4!3m3!8m2!3d38.877204!4d-105.065475?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D) off Pikes Peak Highway
 - **Ending Point Parking:** [**Ridgeway Ave Parking**](https://www.google.com/maps/place/Ridgeway+Ave+Parking/@38.795,-104.8613527,722m/data=!3m1!1e3!4m12!1m5!3m4!2zMzjCsDQ3JzQyLjAiTiAxMDTCsDUxJzMxLjYiVw!8m2!3d38.795!4d-104.8587778!3m5!1s0x87135b6cc3383ddb:0x86042487535dbdb2!8m2!3d38.7952001!4d-104.858472!16s%2Fg%2F11hdvlgcrh?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D) in North Cheyenne Cañon Park
+- [**Trailforks Route**](https://www.trailforks.com/ridelog/planner/view/622004/)
 - [**gpx file**](./gpx/elk-park-to-cheyenne-canon.gpx)
 ### Stats
-- Total Distance: ~25–26 miles
-- Elevation Gain: ~1,200–1,300 ft
+- Total Distance: ~23-25 miles
+- Elevation Gain: ~913 ft
 - Elevation Loss: ~6,900+ ft
 - Ride Time: ~6–7 hrs moving (~8 hrs elapsed)
 
