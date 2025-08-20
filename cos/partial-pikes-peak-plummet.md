@@ -9,19 +9,20 @@ Here’s a logical flow with checkpoints you can load into a GPS app (Trailforks
 2. [**Elk Park Trail**](https://www.trailforks.com/trails/elk-park/) (Trail #652)  
    - Descend ~5.2 miles, 1,600+ ft down. Expect creek crossings & rocky sections.
 3. **Barr Trail Junction**
+   ![Barr Trail Junction](https://github.com/manalotoj/mtb/edit/main/cos/elk-park-barr-trail-junction.png)
    - Turn **left (north)** briefly on Barr Trail near Barr Camp. Be mindful of hikers.  
    - Distance so far: ~6.5 mi / 1.5 hrs.
-4. **Lake Moraine / Foresters Trail (Trail #701)**  
+5. **Lake Moraine / Foresters Trail (Trail #701)**  
    - Take connector from Barr → Lake Moraine → Foresters.  
    - Flow sections through meadowy terrain, mixed tech.
-5. **Jones Park (Trail #667)**  
+6. **Jones Park (Trail #667)**  
    - Enter New Jones Park system. Rolling singletrack with forested climbs and tech features.  
    - Distance so far: ~15 mi / 3.5 hrs.
-6. **Kineo Mountain Trail → Captain Jacks (Trail #667/701)**  
+7. **Kineo Mountain Trail → Captain Jacks (Trail #667/701)**  
    - Descend classic Captain Jacks. Flow, berms, rocky sections.  
    - Option: continue down **Chutes** for a spicy finish.  
    - Total distance: ~23–24 miles.
-7. **Finish: Captain Jacks Trailhead (High Drive Gate)**  
+8. **Finish: Captain Jacks Trailhead (High Drive Gate)**  
    - Car staged at High Drive parking area, off Gold Camp Road.
 
 ---
