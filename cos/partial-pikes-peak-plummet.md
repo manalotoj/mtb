@@ -11,6 +11,7 @@ This is a plan for self-shuttling a partial pikes peak plummet, starting from El
 - Elevation Gain: ~913 ft
 - Elevation Loss: ~6,900+ ft
 - Ride Time: ~6–7 hrs moving (~8 hrs elapsed)
+- Shuttle Time: ~70-75 minutes (one way)
 
 ### Trails
 1. [Elk Park Trail (#652)](https://www.trailforks.com/trails/elk-park/)  
