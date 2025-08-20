@@ -8,7 +8,7 @@ Here’s a logical flow with checkpoints you can load into a GPS app (Trailforks
    - Park car at [Elk Park Trailhead](https://www.google.com/maps/place/38%C2%B052'37.9%22N+105%C2%B003'55.7%22W/@38.8765007,-105.0667217,257m/data=!3m1!1e3!4m4!3m3!8m2!3d38.877204!4d-105.065475?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D), ~11,800 ft (on Pikes Peak Highway, above Glen Cove).
 2. [**Elk Park Trail**](https://www.trailforks.com/trails/elk-park/) (Trail #652)  
    - Descend ~5.2 miles, 1,600+ ft down. Expect creek crossings & rocky sections.
-3. **Barr Trail Junction**  
+3. **Barr Trail Junction**
    - Turn **left (north)** briefly on Barr Trail near Barr Camp. Be mindful of hikers.  
    - Distance so far: ~6.5 mi / 1.5 hrs.
 4. **Lake Moraine / Foresters Trail (Trail #701)**  
