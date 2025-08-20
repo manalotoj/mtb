@@ -6,18 +6,26 @@ Here’s a logical flow with checkpoints you can load into a GPS app (Trailforks
 
 1. **Start: Elk Park Trailhead**  
    - Park car at [Elk Park Trailhead](https://www.google.com/maps/place/38%C2%B052'37.9%22N+105%C2%B003'55.7%22W/@38.8765007,-105.0667217,257m/data=!3m1!1e3!4m4!3m3!8m2!3d38.877204!4d-105.065475?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D), ~11,800 ft (on Pikes Peak Highway, above Glen Cove).
-2. [**Elk Park Trail**](https://www.trailforks.com/trails/elk-park/) (Trail #652)  
+
+2. [**Elk Park Trail (Trail #652)**](https://www.trailforks.com/trails/elk-park/)  
    - Descend ~5.2 miles, 1,600+ ft down. Expect creek crossings & rocky sections.
+
 3. **Barr Trail Junction**
-   <img src="./images/elk-park-barr-trail-junction.png" alt-text="Barr Trail Junction" width="300px" />
    - Turn **left (north)** briefly on Barr Trail near Barr Camp. Be mindful of hikers.  
    - Distance so far: ~6.5 mi / 1.5 hrs.
-5. **Lake Moraine / Foresters Trail (Trail #701)**  
+   <br/><img src="./images/elk-park-barr-trail-junction.png" alt-text="Barr Trail Junction" width="300px" />
+
+5. [**Lake Moraine/Forresters Trail (Trail #701)**](https://www.trailforks.com/trails/lake-moraine/)
    - Take connector from Barr → Lake Moraine → Foresters.  
    - Flow sections through meadowy terrain, mixed tech.
-6. **Jones Park (Trail #667)**  
+   - Make a ***left*** at the fork to Jones Park.
+
+6. [**New Jones Park (Trail #667)**](https://www.trailforks.com/trails/new-jones-park/)  
    - Enter New Jones Park system. Rolling singletrack with forested climbs and tech features.  
    - Distance so far: ~15 mi / 3.5 hrs.
+   - New Jones Park turns into Kineo Mountain trail; don't make any turns.
+   <br/><img src="./images/new-jones-park-to-kineo-mtn.png" alt-text="Barr Trail Junction" width="300px" />
+
 7. **Kineo Mountain Trail → Captain Jacks (Trail #667/701)**  
    - Descend classic Captain Jacks. Flow, berms, rocky sections.  
    - Option: continue down **Chutes** for a spicy finish.  
