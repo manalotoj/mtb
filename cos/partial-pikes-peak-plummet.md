@@ -9,7 +9,7 @@ Here’s a logical flow with checkpoints you can load into a GPS app (Trailforks
 2. [**Elk Park Trail**](https://www.trailforks.com/trails/elk-park/) (Trail #652)  
    - Descend ~5.2 miles, 1,600+ ft down. Expect creek crossings & rocky sections.
 3. **Barr Trail Junction**
-   ![Barr Trail Junction](https://github.com/manalotoj/mtb/edit/main/cos/elk-park-barr-trail-junction.png)
+   <img src="./images/elk-park-barr-trail-junction.png" alt-text="Barr Trail Junction" width="300px" />
    - Turn **left (north)** briefly on Barr Trail near Barr Camp. Be mindful of hikers.  
    - Distance so far: ~6.5 mi / 1.5 hrs.
 5. **Lake Moraine / Foresters Trail (Trail #701)**  
