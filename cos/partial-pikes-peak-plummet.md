@@ -19,12 +19,12 @@ This is a plan for self-shuttling a partial pikes peak plummet, starting from El
 2. [Barr Trail](https://www.trailforks.com/trails/barr-trail-10571/)  
 3. [Foresters Trail (#701)](https://www.trailforks.com/trails/lake-moraine/)  
 4. [Jones Park Trail (#667)](https://www.trailforks.com/trails/new-jones-park/)  
-5. [Captain Jacks (Trail #667)](https://www.trailforks.com/trails/captain-jacks-667/)  
+5. [Captain Jacks (Trail #667)](https://www.trailforks.com/trails/captain-jacks/)  
 6. [Captain Morgans](https://www.trailforks.com/trails/captain-morgans/)  
 7. [Penrose](https://www.trailforks.com/trails/penrose/)  
 8. [Ladders](https://www.trailforks.com/trails/ladders/)  
-9. [The Chutes (#627)](https://www.trailforks.com/trails/chutes-627/)  
-10. [Ridge (Stratton Open Space)](https://www.trailforks.com/trails/ridge-13683/)  
+9. [The Chutes (#627)](https://www.trailforks.com/trails/chutes/)  
+10. [Ridge (Stratton Open Space)](https://www.trailforks.com/trails/ridge/)  
 11. [Ridge South](https://www.trailforks.com/trails/ridge-south/)  
 
 ## 1. **Waypoints (Turn-by-Turn)**
@@ -58,7 +58,7 @@ Here’s a logical flow with checkpoints you can load into a GPS app (Trailforks
    - Total distance: ~23–24 miles.
    - Kineo turns into Upper Captain Jacks; don't make any turns at the intersection.
    <br/><img src="./images/kineo-to-upper-captain-jacks.png" alt-text="Barr Trail Junction" width="300px" />  
-8. [**Captain Jacks (Trail #667)**](https://www.trailforks.com/trails/captain-jacks-667/)
+8. [**Captain Jacks (Trail #667)**](https://www.trailforks.com/trails/captain-jacks/)
 - Continue **straight** from Jones into **Upper Captain Jacks**.  
 - Stay on Captain Jacks as it winds down (ignore side connectors).  
 - After ~3.5 mi, the trail transitions into **Lower Captain Jacks** without needing to turn.  
@@ -78,12 +78,12 @@ Here’s a logical flow with checkpoints you can load into a GPS app (Trailforks
 - Follow until it **dumps onto Gold Camp Road**.  
 - Cross Gold Camp Road and head **straight across** to enter The Chutes.  
 
-12. [**The Chutes (#627)**](https://www.trailforks.com/trails/chutes-627/)
+12. [**The Chutes (#627)**](https://www.trailforks.com/trails/chutes/)
 - Stay in the **downhill-only lane**.  
 - Descend ~1 mi to Stratton Open Space.  
 - At bottom junction: Turn **left** onto the Ridge trail.  
 
-13. [**Ridge (Stratton Open Space)**](https://www.trailforks.com/trails/ridge-13683/)
+13. [**Ridge (Stratton Open Space)**](https://www.trailforks.com/trails/ridge/)
 - Climb/roll along Ridge.  
 - Stay on Ridge, ignoring side connectors to Meadows or Stratton Springs.  
 - At the **southern end of Ridge**, trail continues directly into Ridge South.  
