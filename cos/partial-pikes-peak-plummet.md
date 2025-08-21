@@ -17,8 +17,8 @@ This is a plan for self-shuttling a partial pikes peak plummet, starting from El
 ### Trails
 1. [Elk Park Trail (#652)](https://www.trailforks.com/trails/elk-park/)  
 2. [Barr Trail](https://www.trailforks.com/trails/barr-trail-10571/)  
-3. [Foresters Trail (#701)](https://www.trailforks.com/trails/foresters-trail-701/)  
-4. [Jones Park Trail (#667)](https://www.trailforks.com/trails/jones-park-667/)  
+3. [Foresters Trail (#701)](https://www.trailforks.com/trails/lake-moraine/)  
+4. [Jones Park Trail (#667)](https://www.trailforks.com/trails/new-jones-park/)  
 5. [Captain Jacks (Trail #667)](https://www.trailforks.com/trails/captain-jacks-667/)  
 6. [Captain Morgans](https://www.trailforks.com/trails/captain-morgans/)  
 7. [Penrose](https://www.trailforks.com/trails/penrose/)  
